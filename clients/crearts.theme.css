@@ -262,10 +262,10 @@
 /* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* ✅ Replace Fonts */
-@import url("https://git.lavender.software/maya/stuff/raw/branch/main/css-snippets/CreArts-fonts.css/fonts.css"); /**/
+@import url("https://github.com/girlmaya/t-CreArts/raw/master/modules/replace/fonts.css"); /**/
 
 /* ✅ Replace Dash */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/replace/dash.css"); /**/
+/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/replace/dash.css"); /**/
 
 /* ✅ Replace Edited */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/modules/replace/edited.css"); /**/
