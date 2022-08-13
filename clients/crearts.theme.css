@@ -9,6 +9,7 @@
 */
 
 
+
 /* ╔════════════════════════════════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
 /* ║ Discord Theme                                                                                                      ║ */
 /* ╠══════════════════════════╦═════════════════════════════════════════════════════════════════════════════════════════╣ */
@@ -240,7 +241,7 @@
 /* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* ✅ Friends-Grid */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/addons/friends-grid.css"); /**/
+/* @import url("https://crearts-community.github.io/CreArts-Discord/modules/addons/friends-grid.css"); /**/
 
 /* ✅ Context-Icons */
 @import url("https://crearts-community.github.io/CreArts-Discord/modules/addons/context-icons.css"); /**/
@@ -249,10 +250,10 @@
 @import url("https://crearts-community.github.io/CreArts-Discord/modules/addons/settings-icons.css"); /**/
 
 /* ✅ Mention-Links */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/addons/mention-links.css"); /**/
+/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/addons/mention-links.css"); /**/
 
 /* ✅ Discolored (by Nyria#3863) */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/addons/discolored.css"); /**/
+/* @import url("https://crearts-community.github.io/CreArts-Discord/modules/addons/discolored.css"); /**/
 
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
 /* ║ 1.5 Replace              ║                                                                                         ║ */
@@ -261,7 +262,7 @@
 /* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* ✅ Replace Fonts */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/replace/fonts.css"); /**/
+@import url("https://git.lavender.software/maya/stuff/raw/branch/main/css-snippets/CreArts-fonts.css/fonts.css"); /**/
 
 /* ✅ Replace Dash */
 @import url("https://crearts-community.github.io/CreArts-Discord/modules/replace/dash.css"); /**/
