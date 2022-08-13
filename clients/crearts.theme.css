@@ -190,13 +190,13 @@
 /* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* ✅ Combined */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/left/combined.css"); /**/
+/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/left/combined.css"); /**/
 
 /* ⭕ Divided */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/left/divided.css"); /**/
 
 /* ⭕ Buttons */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/left/buttons.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/alignment/left/buttons.css"); /**/
 
 /* ╔══════════════════════════╦═════════════════════════════════╗ */
 /* ║ 1.3 Alignment            ║ Right                           ║ */
@@ -298,10 +298,10 @@
 @import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/button/download.css"); /**/
 
 /* ⭕ Remove Explore Button (Working with: Default & Buttons; Not Working with: Combined & Divided) */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/button/explore.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/button/explore.css"); /**/
 
 /* ⭕ Remove Add Server Button (Working with: Default & Buttons; Not Working with: Combined & Divided) */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/button/add.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/button/add.css"); /**/
 
 /* ✅ Remove Gift Button */
 @import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/button/gift.css"); /**/
@@ -310,7 +310,7 @@
 @import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/button/sticker.css"); /**/
 
 /* ✅ Remove GIF Button */
-@import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/button/gif.css"); /**/
+/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/button/gif.css"); /**/
 
 /* ⭕ Remove Stream Popout */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/stream-popout.css"); /**/
@@ -319,16 +319,16 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/menu/developer-options.css"); /**/
 
 /* ⭕ Remove Dismissible Contents Menu */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/menu/dismissible-contents.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/menu/dismissible-contents.css"); /**/
 
 /* ⭕ Remove Hotspot Options Menu */
 /*@import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/menu/hotspot-options.css"); /**/
 
 /* ⭕ Remove HypeSquad Menu */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/menu/hypesquad.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/menu/hypesquad.css"); /**/
 
 /* ⭕ Remove Remove Payment Flow Modals */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/menu/payment-flow-modals.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/remove/menu/payment-flow-modals.css"); /**/
 
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
 /* ║ 1.8 Animations           ║                                                                                         ║ */
@@ -352,7 +352,7 @@
 /* ╚════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝ */
 
 /* ⭕ No Tag */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/privacy/user-tag.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/privacy/user-tag.css"); /**/
 
 /* ╔══════════════════════════╦═════════════════════════════════════════════════════════════════════════════[─]═[□]═[×]═╗ */
 /* ║ 2.0 Custom               ║                                                                                         ║ */
@@ -364,7 +364,7 @@
 /*@import url("https://crearts-community.github.io/CreArts-Discord/modules/custom/tags.css"); /**/
 
 /* ✅ Server */
-/*@import url("https://crearts-community.github.io/CreArts-Discord/modules/custom/server.css"); /**/
+@import url("https://crearts-community.github.io/CreArts-Discord/modules/custom/server.css"); /**/
 
 /* ✅ User */
 @import url("https://crearts-community.github.io/CreArts-Discord/modules/custom/user.css"); /**/
