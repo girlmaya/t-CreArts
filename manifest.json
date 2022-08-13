@@ -1,7 +1,7 @@
 {
-  "name": "CreArts v3",
-  "version": "3.0.3",
-  "author": "CorellanStoma#1996",
+  "name": "t-CreArts v3",
+  "version": "t-3.0.3",
+  "author": "CorellanStoma#1996, maya",
   "description": "CreArts is a customizable Discord theme that changes the appearance of Discord.",
   "license": "MIT",
   "theme": "clients/crearts.theme.css"
