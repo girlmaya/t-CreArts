@@ -2,52 +2,59 @@
 // ║ Fonts                    ║ Latin (Quicksand)                                                                       ║
 // ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝
 
+/* Whitney digits */
+@font-face {
+  font-family: "WhitneyDigits";
+  src: url("https://discord.com/assets/e8acd7d9bf6207f99350ca9f9e23b168.woff");
+  unicode-range: U+30-39;
+}
+
 /* 300 (Light) */
 @font-face {
-  font-family: "CreArts";
+  font-family: "Linotte";
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://crearts-community.github.io/Assets/fonts/quicksand/quicksand-300.woff2) format("woff2");
+  src: url(https://git.lavender.software/maya/stuff/raw/branch/main/css-snippets/CreArts-fonts.css/L-Light.woff) format("woff");
   unicode-range: U+0020-007F, U+00A0-00FF, U+0100-017F, U+0180-024F;
 }
 
 /* 400 (Regular) */
 @font-face {
-  font-family: "CreArts";
+  font-family: "Linotte";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://crearts-community.github.io/Assets/fonts/quicksand/quicksand-400.woff2) format("woff2");
+  src: url(https://git.lavender.software/maya/stuff/raw/branch/main/css-snippets/CreArts-fonts.css/L-Regular.woff) format("woff");
   unicode-range: U+0020-007F, U+00A0-00FF, U+0100-017F, U+0180-024F;
 }
 
 /* 500 (Medium) */
 @font-face {
-  font-family: "CreArts";
+  font-family: "Linotte";
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://crearts-community.github.io/Assets/fonts/quicksand/quicksand-500.woff2) format("woff2");
+  src: url(https://git.lavender.software/maya/stuff/raw/branch/main/css-snippets/CreArts-fonts.css/L-Semibold.woff) format("woff");
   unicode-range: U+0020-007F, U+00A0-00FF, U+0100-017F, U+0180-024F;
 }
 
 /* 600 (Semi-Bold) */
 @font-face {
-  font-family: "CreArts";
+  font-family: "Linotte";
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://crearts-community.github.io/Assets/fonts/quicksand/quicksand-600.woff2) format("woff2");
+  src: url(https://git.lavender.software/maya/stuff/raw/branch/main/css-snippets/CreArts-fonts.css/L-Bold.woff) format("woff");
   unicode-range: U+0020-007F, U+00A0-00FF, U+0100-017F, U+0180-024F;
 }
 
 /* 700 (Bold) */
 @font-face {
-  font-family: "CreArts";
+  font-family: "Linotte";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://crearts-community.github.io/Assets/fonts/quicksand/quicksand-700.woff2) format("woff2");
+  src: url(https://git.lavender.software/maya/stuff/raw/branch/main/css-snippets/CreArts-fonts.css/L-Heavy.woff) format("woff");
   unicode-range: U+0020-007F, U+00A0-00FF, U+0100-017F, U+0180-024F;
 }
