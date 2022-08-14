@@ -11,18 +11,18 @@
 
 :root {
   /* Info */
-  --SKIN-skin: "Template Edition" !important;
-  --SKIN-author: "CorellanStoma" !important;
+  --SKIN-skin: "maya (Template Edition)" !important;
+  --SKIN-author: "CorellanStoma, maya" !important;
   
   /* Wallpaper */
   --SKIN-wallpaper: url("") !important;
   --SKIN-wallpaper-opacity: 1.0 !important;
   
   /* Fonts */
-  --SKIN-titlebar-font: "Segoe UI" !important;
-  --SKIN-primary-font: "CreArts" !important;
-  --SKIN-display-font: "CreArts" !important;
-  --SKIN-code-font: "Consolas" !important;
+  --SKIN-titlebar-font: "WhitneyDigits" !important;
+  --SKIN-primary-font: "Linotte" !important;
+  --SKIN-display-font: "Linotte" !important;
+  --SKIN-code-font: "Chapeau Mono" !important;
 
   /* Opacity */
   --SKIN-opacity-titlebar-wordmark: 1.0 !important;
